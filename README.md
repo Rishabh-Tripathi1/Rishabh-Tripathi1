@@ -9,8 +9,7 @@ Computer engineering undergraduate seeking an opportunity to work in a fun and c
 
 - 📫 How to reach me **tripathirishi80@gmail.com**
 
-- 📄 Know about my experiences [shorturl.at/oTV78](shorturl.at/oTV78)
-
+- 📄 Know about my experiences [https://drive.google.com/file/d/1AJRuntjgfe5Y2PG-GfeJqHaPYDozgW26/view?usp=share_link](Rishabh's Resume)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/definitely_rishi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rishabh--tripathi) 
