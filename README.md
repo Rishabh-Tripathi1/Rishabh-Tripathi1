@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rishabh Tripathi</h1>
 
 # 💫 About Me:
-Computer engineering undergraduate seeking an opportunity to work in a fun and challenging environment that will encourage him to learn new and necessary skills as well as be motivated by the company to do his best for the sake of helping himself and the company in the software engineering industry.
+I am a leader who values the benefits of working in solitude, but I also enjoy collaborating with others and helping them feel at ease. With a passion for learning, I am always open to new opportunities that challenge me to expand my knowledge and skills.
+
+My interest in evolving technology has led me to explore the exciting world of machine learning, while my flexibility in web development has allowed me to adapt to new challenges and create innovative solutions. I find great enjoyment in participating in hackathons and working alongside others to create something new and exciting.
+
+Outside of my professional pursuits, I find relaxation and inspiration through my hobbies of reading, taking walks in nature, and editing videos. I believe that a balance of work and personal interests is essential to achieving success and fulfillment in life.
 
 - 🌱 I’m currently learning **Machine Learning**
 
