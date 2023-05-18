@@ -13,7 +13,7 @@ Outside of my professional pursuits, I find relaxation and inspiration through m
 
 - 📫 How to reach me **tripathirishi80@gmail.com**
 
-- 📄 Know about my experiences: ([Resume](https://drive.google.com/file/d/1fOUDgUvz4K7hh8YvbUXneIWxYTfcjAs6/view?usp=share_link))
+- 📄 Know about my experiences: ([Resume](https://drive.google.com/file/d/1QnCZeMe0gJ3Has_WmjjP3NVehtvfQ_D6/view?usp=share_link))
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/definitely_rishi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rishabh--tripathi) 
