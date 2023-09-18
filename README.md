@@ -26,4 +26,3 @@ Outside of my professional pursuits, I find relaxation and inspiration through m
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabh-Tripathi1&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Rishabh-Tripathi1&icon=5&color=9)](https://visitcount.itsvg.in)
