@@ -9,7 +9,7 @@ Outside of my professional pursuits, I find relaxation and inspiration through m
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👯 I’m looking to collaborate on **Machine Learning Projects**
+- 👯 I’m looking to collaborate on **AI/Machine Learning/Python Projects**
 
 - 📫 How to reach me **tripathirishi80@gmail.com**
 
