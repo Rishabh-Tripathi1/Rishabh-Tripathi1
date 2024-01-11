@@ -7,7 +7,7 @@ My interest in evolving technology has led me to explore the exciting world of A
 
 Outside of my professional pursuits, I find relaxation and inspiration through my hobbies of reading 📖, taking walks in nature 🌳, and editing videos 🎥. I believe that a balance of work and personal interests is essential to achieving success and fulfillment in life.
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Flutter**
 
 - 👯 I’m looking to collaborate on **AI/Machine Learning/Python Projects**
 
